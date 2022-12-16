@@ -1,4 +1,4 @@
-## Array-Sum Excercise
+## Array-Sum Exercise
 Project developed in NodeJS to show an algorithm proposed to solve the next exercise:
 
 >The task is to write a function that finds pairs of integers from a list that
